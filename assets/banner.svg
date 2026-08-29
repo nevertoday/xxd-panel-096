@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
+  <title id="title">XXD Panel 096</title>
+  <desc id="desc">QSL card, vernacular ephemera, typewriter typography, pen-and-ink, one coloured paper and one printing ink.</desc>
+  <defs><filter id="copy"><feTurbulence baseFrequency=".55" numOctaves="2" seed="96" result="n"/><feComposite in="n" in2="SourceGraphic" operator="in" result="g"/><feBlend in="SourceGraphic" in2="g" mode="multiply"/></filter></defs>
+  <rect width="1200" height="420" fill="#f2ebdc"/>
+  <g transform="translate(58 38) rotate(-1 250 170)" filter="url(#copy)">
+    <rect x="0" y="0" width="510" height="340" rx="4" fill="#d8f237" stroke="#191b18" stroke-width="3"/>
+    <text x="28" y="42" font-family="Courier New,monospace" font-size="15" letter-spacing="2">QSL / PRIVATE RECORD / 096</text>
+    <path d="M94 250 C75 205 85 132 141 100 C192 71 276 82 306 135 C330 179 311 241 266 270 C212 302 123 290 94 250Z" fill="none" stroke="#191b18" stroke-width="3"/>
+    <path d="M117 226 C157 201 214 175 285 158 M109 245 C165 219 225 199 299 184 M135 270 C190 241 243 223 286 216" fill="none" stroke="#191b18" stroke-width="1.5" stroke-dasharray="9 5"/>
+    <path d="M355 86 L474 86 M355 104 L445 104 M355 122 L482 122 M355 204 L474 204 M355 222 L427 222" stroke="#191b18" stroke-width="2"/>
+    <text x="352" y="160" font-family="Courier New,monospace" font-size="12">SIGNAL  5/9</text><text x="352" y="181" font-family="Courier New,monospace" font-size="12">DATE  --/--</text>
+    <circle cx="448" cy="286" r="28" fill="none" stroke="#191b18" stroke-width="2" stroke-dasharray="3 4"/>
+  </g>
+  <line x1="610" y1="52" x2="610" y2="368" stroke="#20221e" opacity=".2"/>
+  <text x="674" y="82" font-family="Apple Color Emoji,sans-serif" font-size="22">&#x1F981;</text>
+  <g fill="#20221e" font-family="Courier New,monospace"><text x="708" y="82" font-size="22" letter-spacing="5">XXD</text><text x="670" y="151" font-size="55" font-weight="700">PANEL 096</text><text x="670" y="199" font-size="16" letter-spacing="1.4">QSL CARD · VERNACULAR EPHEMERA</text><text x="670" y="229" font-size="16" letter-spacing="1.2">ONE COLOURED PAPER + ONE PRINTING INK</text><text x="670" y="282" font-size="15">打字机字体 · 钢笔线描 · 彩纸单色复制</text><text x="670" y="311" font-size="14">タイプライター · 타자기 · آلة كاتبة</text><text x="670" y="360" font-size="13" opacity=".62">TECHNICAL · HANDMADE · DIRECT · PERSONAL</text></g>
+</svg>
