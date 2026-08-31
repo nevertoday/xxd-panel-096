@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 096
+# 🦁 XXD Panel 096｜民间通信卡
 
 ### 把照片变成一张像真的寄出过的 QSL 民间通信卡
 

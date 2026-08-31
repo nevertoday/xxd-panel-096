@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 096
+# 🦁 XXD Panel 096｜Folk Correspondence Card
 
 ### Turn a photograph into a QSL card that feels personally typed, copied, and mailed
 

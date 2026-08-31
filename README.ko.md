@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 096
+# 🦁 XXD Panel 096｜민간 서신 카드
 
 ### 사진을 실제로 타이핑하고 복사해 우편으로 보낸 듯한 QSL 통신 카드로
 

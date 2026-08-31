@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 096
+# 🦁 XXD Panel 096｜民間通信カード
 
 ### 写真を、実際にタイプ・複写・郵送されたような QSL 通信カードへ
 
