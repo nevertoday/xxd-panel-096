@@ -1,5 +1,3 @@
-<p align="center"><img src="./assets/banner.svg" alt="XXD Panel 096 プロジェクトバナー" width="1200"></p>
-
 <div align="center">
 
 # 🦁 XXD Panel 096｜民間通信カード

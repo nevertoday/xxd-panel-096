@@ -1,5 +1,3 @@
-<p align="center"><img src="./assets/banner.svg" alt="XXD Panel 096 프로젝트 배너" width="1200"></p>
-
 <div align="center">
 
 # 🦁 XXD Panel 096｜민간 서신 카드
