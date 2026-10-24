@@ -1,7 +1,7 @@
 interface:
   display_name: "/xxd-panel-096"
-  short_description: "Create Panel 096 from images or a directory batch."
-  default_prompt: "Use $xxd-panel-096; accept one image or an image directory, keep the body of its bundled original style brief as the sole aesthetic authority, resolve shared batch settings once, isolate every source, send exactly one mode-specific delivery contract per asset, keep one flat task directory, make design-only and wallpaper outputs fully transformed, and ground factual-looking copy in supplied or verified facts."
+  short_description: "民间通信卡：把照片变成彩纸单色印、打字机字加钢笔线描的老式 QSL 通信卡"
+  default_prompt: "Use $xxd-panel-096 to turn my photo into Folk Correspondence Card artwork."
 
 policy:
   allow_implicit_invocation: true

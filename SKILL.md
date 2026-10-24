@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-096
-description: "Create XXD Panel 096 raster artwork from one image or a directory batch while treating the bundled original style brief as the sole aesthetic authority. Supports one or more top-bottom, left-right, design-only, and four-device wallpaper outputs; multiple ratios or exact sizes; prompt-generated, user-exact, or text-free typography; and inline parameters. Use when the user invokes xxd-panel-096 or requests the exact Panel 096 style."
+description: "XXD Panel 096｜Folk Correspondence Card: turns the subject, pose and story of a photo into an old QSL card or piece of vernacular ephemera — a direct, slightly awkward pen-and-ink drawing with thin broken contours and a little hatching, a few small hand-drawn symbols or technical marks, loose mixed layout of picture and text with irregular margins, narrow worn typewriter text with uneven spacing and drifting baselines, and one bright coloured paper chosen from the photo printed in a single ink, with light photocopy grain, uneven ink and misregistration. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-096 or asks for QSL card, typewriter-and-ink, zine, DIY photocopy or single-colour-on-coloured-paper print from a photo."
 ---
 
 # XXD Panel 096

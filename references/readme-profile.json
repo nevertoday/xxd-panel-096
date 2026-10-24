@@ -1,0 +1,84 @@
+{
+  "skill_description": "XXD Panel 096｜Folk Correspondence Card: turns the subject, pose and story of a photo into an old QSL card or piece of vernacular ephemera — a direct, slightly awkward pen-and-ink drawing with thin broken contours and a little hatching, a few small hand-drawn symbols or technical marks, loose mixed layout of picture and text with irregular margins, narrow worn typewriter text with uneven spacing and drifting baselines, and one bright coloured paper chosen from the photo printed in a single ink, with light photocopy grain, uneven ink and misregistration. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-096 or asks for QSL card, typewriter-and-ink, zine, DIY photocopy or single-colour-on-coloured-paper print from a photo.",
+  "short_description": "民间通信卡：把照片变成彩纸单色印、打字机字加钢笔线描的老式 QSL 通信卡",
+  "zh-CN": {
+    "name": "民间通信卡",
+    "tagline": "把照片变成一张像真的被打字、复印、寄出过的老式 QSL 通信卡。",
+    "look": "主体用直接、略显笨拙的纤细钢笔线重画，轮廓断断续续，只在头发、衣褶或阴影处加几道排线，旁边可以有几个手绘小符号或示意线。整张卡只用一张鲜明的彩色纸，颜色从照片里挑，比如柠檬黄、珊瑚橙、天蓝或草绿，图和字都用同一种墨色印上去，带复印颗粒、墨色不匀和套印偏差。图文自由混排，主体偏到一边或被裁切，边距窄、留白不规则。文字是窄小、磨损、略有错位的老式打字机字，像标题、日期、短句或通信信息直接打在卡上。",
+    "traits": ["钢笔线描", "老式打字机字", "彩纸单色印", "复印颗粒", "DIY 偶然感", "私人通信记录"],
+    "good": [
+      "有一个清楚主体、带点个人记录意味的照片：窗台上的收音机、一个人站在天线下、骑摩托的朋友",
+      "旅行、地点和日常片段：车站站牌下、海边小屋、某天的早餐",
+      "想做成明信片、小刊物封面或活动传单的照片"
+    ],
+    "poor": [
+      "需要多种颜色才成立的照片，最后只有一种纸色和一种墨色",
+      "需要细腻明暗或写实还原的人像和产品图",
+      "想要现代精致排版、渐变、光滑矢量或彩色插画的需求"
+    ]
+  },
+  "en": {
+    "name": "Folk Correspondence Card",
+    "tagline": "Turns a photo into an old QSL card that looks typed, photocopied and actually posted.",
+    "look": "The subject is redrawn in direct, slightly awkward thin pen lines with broken contours and only a few strokes of hatching on hair, folds or shadow, sometimes with small hand-drawn symbols or diagram marks nearby. The whole card is one bright coloured paper picked from the photo, such as lemon yellow, coral, sky blue or grass green, and picture and text are printed in a single ink, with photocopy grain, uneven ink and misregistration. Picture and words are mixed freely: the subject sits off to one side or is cropped, margins are narrow and the empty space is irregular. Text is narrow, worn, slightly misaligned old typewriter type, as if a title, date, short line or call-sign details were typed straight onto the card.",
+    "traits": ["Pen-and-ink drawing", "Old typewriter type", "One ink on coloured paper", "Photocopy grain", "DIY accident", "Personal correspondence"],
+    "good": [
+      "Photos with one clear subject and a personal-record feel: a radio on a windowsill, someone under an antenna, a friend on a motorbike",
+      "Travel, places and everyday moments: under a station sign, a seaside hut, one morning's breakfast",
+      "Photos you want as a postcard, a zine cover or an event flyer"
+    ],
+    "poor": [
+      "Photos that only work in many colours, since the result is one paper colour and one ink",
+      "Portraits or product shots that need fine shading or a realistic likeness",
+      "Requests for polished modern layout, gradients, glossy vectors or full-colour illustration"
+    ]
+  },
+  "ja": {
+    "name": "民間通信カード",
+    "tagline": "写真を、本当にタイプされ、コピーされ、郵送されたような古い QSL カードにします。",
+    "look": "主役は率直で少しぎこちない細いペン線で描き直され、輪郭は途切れがち。髪や服のしわ、影にだけハッチングを数本入れ、そばに手描きの小さな記号や図示線を添えることもあります。カード全体は写真から選んだ鮮やかな色紙一枚で、レモンイエロー、コーラル、空色、草色など。絵も文字も同じ一色のインクで刷られ、コピーの粒子、インクのむら、版ずれが残ります。絵と文字は自由に混ざり、主役は片側に寄ったり切れたりし、余白は狭く不揃いです。文字は細く小さく、すり減って少しずれた古いタイプライター書体で、タイトルや日付、短い言葉や交信情報がカードに直接打たれたように見えます。",
+    "traits": ["ペン画", "古いタイプライター書体", "色紙に一色刷り", "コピーの粒子", "DIY の偶然性", "個人の通信記録"],
+    "good": [
+      "主役がはっきりしていて個人的な記録らしさのある写真：窓辺のラジオ、アンテナの下に立つ人、バイクに乗る友人",
+      "旅や場所、日常のひとこま：駅の看板の下、海辺の小屋、ある日の朝ごはん",
+      "ポストカード、ジンの表紙、イベントのチラシにしたい写真"
+    ],
+    "poor": [
+      "多くの色があってこそ成り立つ写真（紙の色とインクの色の二つだけになります）",
+      "細やかな陰影や写実的な再現が必要な人物写真や商品写真",
+      "現代的な整ったレイアウト、グラデーション、つるっとしたベクター、フルカラーのイラストを求める場合"
+    ]
+  },
+  "ko": {
+    "name": "민간 서신 카드",
+    "tagline": "사진을 정말로 타자 치고 복사해 부친 것 같은 옛 QSL 카드로 바꿉니다.",
+    "look": "주인공은 솔직하고 조금 어설픈 가는 펜 선으로 다시 그리며 윤곽은 끊어지기도 하고, 머리카락이나 옷 주름, 그늘에만 해칭을 몇 줄 넣습니다. 옆에 손으로 그린 작은 기호나 도식 선을 둘 수도 있습니다. 카드 전체는 사진에서 고른 선명한 색지 한 장으로, 레몬 옐로, 코럴, 하늘색, 풀색 등이며 그림과 글자는 같은 한 가지 잉크로 찍혀 복사 입자, 잉크 얼룩, 인쇄 어긋남이 남습니다. 그림과 글은 자유롭게 섞이고, 주인공은 한쪽으로 비켜 있거나 잘려 있으며 여백은 좁고 들쭉날쭉합니다. 글자는 좁고 작으며 닳고 살짝 어긋난 옛 타자기 서체로, 제목, 날짜, 짧은 문장, 교신 정보가 카드에 직접 타이핑된 듯합니다.",
+    "traits": ["펜 드로잉", "옛 타자기 서체", "색지에 단색 인쇄", "복사 입자", "DIY 우연성", "개인 서신 기록"],
+    "good": [
+      "주인공이 분명하고 개인 기록 같은 느낌의 사진: 창턱의 라디오, 안테나 아래 선 사람, 오토바이 탄 친구",
+      "여행, 장소, 일상의 한 장면: 역 표지판 아래, 바닷가 오두막, 어느 날의 아침밥",
+      "엽서, 진(zine) 표지, 행사 전단으로 쓰고 싶은 사진"
+    ],
+    "poor": [
+      "여러 색이 있어야 성립하는 사진(종이 색과 잉크 색 두 가지만 남습니다)",
+      "섬세한 명암이나 사실적 재현이 필요한 인물·제품 사진",
+      "세련된 현대식 레이아웃, 그라데이션, 매끈한 벡터, 풀컬러 일러스트를 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "بطاقة المراسلات الشعبية",
+    "tagline": "يحوّل الصورة إلى بطاقة QSL قديمة تبدو كأنها طُبعت على آلة كاتبة ونُسخت وأُرسلت فعلاً بالبريد.",
+    "look": "يُعاد رسم العنصر بخطوط قلم رفيعة مباشرة فيها شيء من الارتباك، بمحيط متقطع وقليل من التظليل على الشعر أو ثنيات القماش أو الظل، وقد تُضاف بجانبه رموز يدوية صغيرة أو علامات تخطيطية. البطاقة كلها ورقة ملونة زاهية واحدة يُختار لونها من الصورة، كالأصفر الليموني أو المرجاني أو الأزرق السماوي أو الأخضر العشبي، وتُطبع الصورة والنص بحبر واحد، مع حبيبات النسخ وتفاوت الحبر وانزياح الطباعة. يختلط الرسم والكلام بحرية: العنصر منزاح إلى جانب أو مقصوص، والهوامش ضيقة والفراغ غير منتظم. النص بحروف آلة كاتبة قديمة ضيقة متآكلة ومنحرفة قليلاً، كأن عنواناً أو تاريخاً أو سطراً قصيراً أو بيانات اتصال كُتبت مباشرة على البطاقة.",
+    "traits": ["رسم بالقلم والحبر", "حروف آلة كاتبة قديمة", "حبر واحد على ورق ملون", "حبيبات النسخ", "عفوية يدوية", "مراسلات شخصية"],
+    "good": [
+      "صور فيها عنصر واضح وطابع سجل شخصي: مذياع على حافة نافذة، شخص تحت هوائي، صديق على دراجة نارية",
+      "السفر والأماكن ولحظات الحياة اليومية: تحت لافتة محطة، كوخ على الشاطئ، فطور يوم ما",
+      "صور تريدها بطاقة بريدية أو غلاف مجلة صغيرة مستقلة أو منشور فعالية"
+    ],
+    "poor": [
+      "صور لا تنجح إلا بألوان كثيرة، إذ تنتهي بلون ورق واحد وحبر واحد",
+      "صور شخصية أو صور منتجات تحتاج إلى تظليل دقيق أو شبه واقعي",
+      "طلب تنضيد حديث مصقول أو تدرجات لونية أو متجهات لامعة أو رسم كامل الألوان"
+    ]
+  }
+}
